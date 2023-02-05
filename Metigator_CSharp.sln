@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator Overloading", "Operator Overloading\Operator Overloading.csproj", "{B17C4E09-4E07-4628-9CC8-B8313AE11A47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalizer", "Finalizer\Finalizer.csproj", "{6392EB32-9C15-4951-92F0-57996B4CF387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finalizer", "Finalizer\Finalizer.csproj", "{6392EB32-9C15-4951-92F0-57996B4CF387}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Types", "Nested Types\Nested Types.csproj", "{2ABACBAB-F715-450D-835F-7FA6980F7116}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{BE8D50C7-B9F8-4CA2-9298-FD9B3B504C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Delegate Type", "Generic Delegate Type\Generic Delegate Type.csproj", "{980EC532-9544-4F42-A06C-35888C50C25F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{6392EB32-9C15-4951-92F0-57996B4CF387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6392EB32-9C15-4951-92F0-57996B4CF387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6392EB32-9C15-4951-92F0-57996B4CF387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABACBAB-F715-450D-835F-7FA6980F7116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABACBAB-F715-450D-835F-7FA6980F7116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABACBAB-F715-450D-835F-7FA6980F7116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABACBAB-F715-450D-835F-7FA6980F7116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8D50C7-B9F8-4CA2-9298-FD9B3B504C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8D50C7-B9F8-4CA2-9298-FD9B3B504C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8D50C7-B9F8-4CA2-9298-FD9B3B504C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8D50C7-B9F8-4CA2-9298-FD9B3B504C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980EC532-9544-4F42-A06C-35888C50C25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980EC532-9544-4F42-A06C-35888C50C25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980EC532-9544-4F42-A06C-35888C50C25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980EC532-9544-4F42-A06C-35888C50C25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
