@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Types", "Nested Type
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{BE8D50C7-B9F8-4CA2-9298-FD9B3B504C21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Delegate Type", "Generic Delegate Type\Generic Delegate Type.csproj", "{980EC532-9544-4F42-A06C-35888C50C25F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Delegate Type", "Generic Delegate Type\Generic Delegate Type.csproj", "{980EC532-9544-4F42-A06C-35888C50C25F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerators and  Iterators", "Enumerators and  Iterators\Enumerators and  Iterators.csproj", "{2970F097-EC5F-41DD-9710-6A58BDE19D4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerators and  Iterators", "Enumerators and  Iterators\Enumerators and  Iterators.csproj", "{2970F097-EC5F-41DD-9710-6A58BDE19D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assemblies", "Assemblies\Assemblies.csproj", "{01451804-09E6-4E47-A337-EF4DD511BE68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{2970F097-EC5F-41DD-9710-6A58BDE19D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2970F097-EC5F-41DD-9710-6A58BDE19D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2970F097-EC5F-41DD-9710-6A58BDE19D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01451804-09E6-4E47-A337-EF4DD511BE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01451804-09E6-4E47-A337-EF4DD511BE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01451804-09E6-4E47-A337-EF4DD511BE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01451804-09E6-4E47-A337-EF4DD511BE68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
