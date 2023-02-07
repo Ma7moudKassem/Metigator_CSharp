@@ -13,4 +13,4 @@ foreach (byte da in data)
     Console.WriteLine((char)da);
     System.Threading.Thread.Sleep(300);
 }
-streem.Close()
+streem.Close();
