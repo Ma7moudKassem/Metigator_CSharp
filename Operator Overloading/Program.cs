@@ -8,8 +8,8 @@ var z != y ---> (unary Operator) -> Boolean Operators
 
  */
 
-Money m1 = new Money(10);
-Money m2 = new Money(20);
+Money m1 = new(10);
+Money m2 = new(20);
 Money m3 = m1 + m2;
 Money m4 = m3 - m1;
 

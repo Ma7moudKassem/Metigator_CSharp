@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 
 IEnumerable<int> numbers = new int[] { 2, 5, 4, 1, 7, 9, 3, 6, 8 };
 
-//PrintNumbersWithPredicate(e => e % 2 == 0, numbers);
+PrintNumbersWithPredicate(e => e % 2 == 0, numbers);
 
 //PrintNumbersWithDelegete(e => e % 2 == 0, numbers);
 

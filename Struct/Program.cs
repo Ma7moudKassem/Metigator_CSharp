@@ -14,7 +14,7 @@ struct ===> user defiend type
 - struct ==> Value Type (store in stack)
 - struct ==> you can't initialize the field
 - struct ==> you can't use new() when instant
-- struct ==> you cann't override on constructor 
+- struct ==> you can't override on constructor 
 - struct ==> object and object Name Store in Stack
 - struct ==> constructor must have parameters in private constructor
  */
