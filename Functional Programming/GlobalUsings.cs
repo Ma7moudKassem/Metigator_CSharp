@@ -1,12 +1,1 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Functional_Programming
-{
-    internal class GlobalUsings
-    {
-    }
-}
+﻿global using FunctionalProgramming;
