@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pure Vs. Impure Function", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functional Programming", "Functional Programming\Functional Programming.csproj", "{BC2615CF-3E3E-47BE-9E6B-37817E6A0C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core Of LINQ", "Core Of LINQ\Core Of LINQ.csproj", "{C15A0CF8-A4B2-413B-8872-D8F2E1D79FD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core Of LINQ", "Core Of LINQ\Core Of LINQ.csproj", "{C15A0CF8-A4B2-413B-8872-D8F2E1D79FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projection Operation", "Projection Operation\Projection Operation.csproj", "{7491E916-0B0D-4222-8A14-0843ECA74376}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +99,10 @@ Global
 		{C15A0CF8-A4B2-413B-8872-D8F2E1D79FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C15A0CF8-A4B2-413B-8872-D8F2E1D79FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C15A0CF8-A4B2-413B-8872-D8F2E1D79FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7491E916-0B0D-4222-8A14-0843ECA74376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7491E916-0B0D-4222-8A14-0843ECA74376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7491E916-0B0D-4222-8A14-0843ECA74376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7491E916-0B0D-4222-8A14-0843ECA74376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +122,7 @@ Global
 		{56DD78EE-F5D6-4F1B-B79B-C9726D9CD535} = {DB166958-8D20-4B76-B8FC-87A1A36B9798}
 		{BC2615CF-3E3E-47BE-9E6B-37817E6A0C72} = {DB166958-8D20-4B76-B8FC-87A1A36B9798}
 		{C15A0CF8-A4B2-413B-8872-D8F2E1D79FD4} = {DB166958-8D20-4B76-B8FC-87A1A36B9798}
+		{7491E916-0B0D-4222-8A14-0843ECA74376} = {DB166958-8D20-4B76-B8FC-87A1A36B9798}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {38139EFD-943D-44EF-9D7D-051B26AC133D}
